@@ -1,0 +1,7 @@
+# xcode stuff
+*.xcodeproj
+
+# tests
+preworkTests/
+preworkUITests/
+
